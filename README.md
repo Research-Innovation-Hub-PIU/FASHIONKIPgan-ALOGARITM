@@ -98,6 +98,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 For questions or collaboration inquiries, reach us at gichuhipatience.com].
 
---- 
-
-Ensure that each `images/` path in the README corresponds to an actual image file in your repository. Adding these images will make your README much more engaging and informative!
